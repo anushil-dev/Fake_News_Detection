@@ -25,9 +25,3 @@ Our model was evaluated against several baselines and demonstrated superior perf
 
 *(Upload the charts I made for you to GitHub, and you can display them here by typing: `![Performance Graph](link_to_your_image.png)`)*
 
-## ⚙️ Installation & Usage
-
-### 1. Clone the repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/Fake-News-Detection.git](https://github.com/YOUR_USERNAME/Fake-News-Detection.git)
-cd Fake-News-Detection
