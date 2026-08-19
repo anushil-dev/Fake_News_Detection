@@ -28,5 +28,4 @@ Our model was evaluated against several baselines and demonstrated superior perf
 * **Precision:** ~95.2%
 * **Recall:** ~94.7%
 
-*(Upload the charts I made for you to GitHub, and you can display them here by typing: `![Performance Graph](link_to_your_image.png)`)*
 
