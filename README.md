@@ -28,4 +28,11 @@ Our model was evaluated against several baselines and demonstrated superior perf
 * **Precision:** ~95.2%
 * **Recall:** ~94.7%
 
+### 📉 Data Insights & Evaluation
+To better understand the semantic relationships in our dataset and evaluate the model's prediction accuracy, we generated the following visualizations:
 
+**Word Co-occurrence Matrix (Top 40 Words)**
+![Word Co-occurrence Matrix](images/word_matrix.png)
+
+**Confusion Matrix**
+![Confusion Matrix](images/confusion_graph.png)
