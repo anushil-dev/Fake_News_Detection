@@ -5,6 +5,11 @@
 ![NLTK](https://img.shields.io/badge/Library-NLTK-green)
 ![License](https://img.shields.io/badge/License-MIT-success)
 
+> 🏆 **Published Research:** This repository contains the official codebase for our paper, *"Fake News Detection Using Machine Learning Algorithm,"* published in the IIP Series. <br>
+> **[📖 Read the full published paper here](https://iipseries.org/viewpaper.php?pid=8744&pt=fake-news-detection-using-maschine-learning-algorithm)**
+
+---
+
 ## 📌 Overview
 This repository contains the code and methodology for an automated Fake News Detection system. Designed to combat the rapid spread of misinformation, this project utilizes a custom Natural Language Processing (NLP) pipeline and a **Passive Aggressive Classifier (PAC)** to identify deceptive news articles with high accuracy (~95%).
 
