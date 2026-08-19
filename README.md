@@ -32,7 +32,7 @@ Our model was evaluated against several baselines and demonstrated superior perf
 To better understand the semantic relationships in our dataset and evaluate the model's prediction accuracy, we generated the following visualizations:
 
 **Word Co-occurrence Matrix (Top 40 Words)**
-![Word Co-occurrence Matrix](images/word_matrix.png)
+![Word Co-occurrence Matrix](Images/word_matrix.png)
 
 **Confusion Matrix**
-![Confusion Matrix](images/confusion_graph.png)
+![Confusion Matrix](Images/confusion_graph.png)
